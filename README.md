@@ -1,2 +1,2 @@
-# arikalz.github.io
-Python 3.x libraries for spatial analysis and modeling
+# stsa.github.io
+Python 3.x library for spatiotemporal sensitivity analysis
